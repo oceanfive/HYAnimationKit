@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HYAnimationKit_Example' do
+  pod 'HYAnimationKit', :path => '../'
+
+  target 'HYAnimationKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
