@@ -38,10 +38,10 @@
 
 /* Begin PBXFileReference section */
 		1834DB58003C1C1CF40EF9BD /* Pods-HYAnimationKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HYAnimationKit_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-HYAnimationKit_Tests/Pods-HYAnimationKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		1CA0AF3BA5AFF860E61BF285 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		285D88FF17E645E95F1A8802 /* HYAnimationKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = HYAnimationKit.podspec; path = ../HYAnimationKit.podspec; sourceTree = "<group>"; };
+		1CA0AF3BA5AFF860E61BF285 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		285D88FF17E645E95F1A8802 /* HYAnimationKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HYAnimationKit.podspec; path = ../HYAnimationKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		2D34E67908EF0D96BB48C344 /* Pods_HYAnimationKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HYAnimationKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4D39AECF43764A14910AA093 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		4D39AECF43764A14910AA093 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		5381D1B36AF28E4976C669E9 /* Pods-HYAnimationKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HYAnimationKit_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-HYAnimationKit_Example/Pods-HYAnimationKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* HYAnimationKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HYAnimationKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };

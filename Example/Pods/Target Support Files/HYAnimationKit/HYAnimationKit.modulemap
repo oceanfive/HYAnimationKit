@@ -1,0 +1,6 @@
+framework module HYAnimationKit {
+  umbrella header "HYAnimationKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

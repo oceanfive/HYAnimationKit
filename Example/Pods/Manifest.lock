@@ -1,0 +1,16 @@
+PODS:
+  - HYAnimationKit (0.0.1)
+
+DEPENDENCIES:
+  - HYAnimationKit (from `../`)
+
+EXTERNAL SOURCES:
+  HYAnimationKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HYAnimationKit: ac1705566ab1b1649e317a906a3ca52d62d45e7e
+
+PODFILE CHECKSUM: f618ca2881f437acd5655155dfb4135ef471913a
+
+COCOAPODS: 1.5.2
